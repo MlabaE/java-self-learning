@@ -1,0 +1,1 @@
+This project is to help me with learning java in a more proactive way by setting up weekly projects that will be based of java concepts 
